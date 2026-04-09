@@ -1,304 +1,305 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://fence.buma55.com/</loc>
+    <loc>https://hulan.buma55.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- Core Category Pages -->
   <url>
-    <loc>https://fence.buma55.com/zinc-steel-fence/</loc>
+    <loc>https://hulan.buma55.com/zinc-steel-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/temporary-fence/</loc>
+    <loc>https://hulan.buma55.com/temporary-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/welded-mesh-fence/</loc>
+    <loc>https://hulan.buma55.com/welded-mesh-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/358-security-fence/</loc>
+    <loc>https://hulan.buma55.com/358-security-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/chain-link-fence/</loc>
+    <loc>https://hulan.buma55.com/chain-link-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/ornamental-fence/</loc>
+    <loc>https://hulan.buma55.com/ornamental-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/steel-picket-fence/</loc>
+    <loc>https://hulan.buma55.com/steel-picket-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/razor-wire/</loc>
+    <loc>https://hulan.buma55.com/razor-wire/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Temporary Fence Sub-pages -->
   <url>
-    <loc>https://fence.buma55.com/temporary-fence/panels/</loc>
+    <loc>https://hulan.buma55.com/temporary-fence/panels/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/temporary-fence/accessories/</loc>
+    <loc>https://hulan.buma55.com/temporary-fence/accessories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Product Detail Pages -->
   <url>
-    <loc>https://fence.buma55.com/products/868-double-wire-mesh-fence/</loc>
+    <loc>https://hulan.buma55.com/products/868-double-wire-mesh-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Application Pages -->
   <url>
-    <loc>https://fence.buma55.com/applications/</loc>
+    <loc>https://hulan.buma55.com/applications/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/applications/construction-site-fencing/</loc>
+    <loc>https://hulan.buma55.com/applications/construction-site-fencing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/applications/residential-community-fence/</loc>
+    <loc>https://hulan.buma55.com/applications/residential-community-fence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/applications/airport-security-fence/</loc>
+    <loc>https://hulan.buma55.com/applications/airport-security-fence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/applications/airport-perimeter-fencing/</loc>
+    <loc>https://hulan.buma55.com/applications/airport-perimeter-fencing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/applications/industrial-perimeter-fencing/</loc>
+    <loc>https://hulan.buma55.com/applications/industrial-perimeter-fencing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://fence.buma55.com/applications/industrial-security-fencing/</loc>
+    <loc>https://hulan.buma55.com/applications/industrial-security-fencing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Country Pages -->
   <url>
-    <loc>https://fence.buma55.com/countries/</loc>
+    <loc>https://hulan.buma55.com/countries/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/australia/</loc>
+    <loc>https://hulan.buma55.com/countries/australia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/australia/358-anti-climb-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/australia/358-anti-climb-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/australia/chain-link-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/australia/chain-link-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/australia/ornamental-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/australia/ornamental-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/australia/pool-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/australia/pool-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/australia/temporary-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/australia/temporary-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/australia/welded-mesh-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/australia/welded-mesh-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/canada/</loc>
+    <loc>https://hulan.buma55.com/countries/canada/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/uk/</loc>
+    <loc>https://hulan.buma55.com/countries/uk/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/uk/temporary-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/uk/temporary-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/usa/</loc>
+    <loc>https://hulan.buma55.com/countries/usa/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/usa/ornamental-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/usa/ornamental-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/usa/razor-wire/</loc>
+    <loc>https://hulan.buma55.com/countries/usa/razor-wire/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/saudi-arabia/</loc>
+    <loc>https://hulan.buma55.com/countries/saudi-arabia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/saudi-arabia/temporary-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/saudi-arabia/temporary-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/saudi-arabia/twin-wire-mesh-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/saudi-arabia/twin-wire-mesh-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/saudi-arabia/welded-mesh-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/saudi-arabia/welded-mesh-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/saudi-arabia/358-security-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/saudi-arabia/358-security-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/saudi-arabia/chain-link-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/saudi-arabia/chain-link-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/saudi-arabia/razor-wire/</loc>
+    <loc>https://hulan.buma55.com/countries/saudi-arabia/razor-wire/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/south-africa/</loc>
+    <loc>https://hulan.buma55.com/countries/south-africa/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/south-africa/358-security-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/south-africa/358-security-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/south-africa/temporary-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/south-africa/temporary-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/south-africa/welded-mesh-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/south-africa/welded-mesh-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/south-africa/chain-link-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/south-africa/chain-link-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/dach/</loc>
+    <loc>https://hulan.buma55.com/countries/dach/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/dach/temporary-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/dach/temporary-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/dach/358-security-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/dach/358-security-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/dach/welded-mesh-fence/</loc>
+    <loc>https://hulan.buma55.com/countries/dach/welded-mesh-fence/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/countries/middle-east/</loc>
+    <loc>https://hulan.buma55.com/countries/middle-east/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- FAQ Pages -->
   <url>
-    <loc>https://fence.buma55.com/faq/</loc>
+    <loc>https://hulan.buma55.com/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/faq/temporary-fence/</loc>
+    <loc>https://hulan.buma55.com/faq/temporary-fence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/faq/ornamental-fence/</loc>
+    <loc>https://hulan.buma55.com/faq/ornamental-fence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/faq/steel-picket-fence/</loc>
+    <loc>https://hulan.buma55.com/faq/steel-picket-fence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/faq/zinc-steel-fence/</loc>
+    <loc>https://hulan.buma55.com/faq/zinc-steel-fence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://fence.buma55.com/faq/358-security-fence/</loc>
+    <loc>https://hulan.buma55.com/faq/358-security-fence/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Contact -->
   <url>
-    <loc>https://fence.buma55.com/contact/</loc>
+    <loc>https://hulan.buma55.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
+

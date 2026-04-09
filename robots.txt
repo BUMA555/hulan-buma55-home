@@ -1,11 +1,11 @@
-# Fence Export — robots.txt
-# https://fence.buma55.com/robots.txt
+﻿# Fence Export — robots.txt
+# https://hulan.buma55.com/robots.txt
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://fence.buma55.com/sitemap.xml
+Sitemap: https://hulan.buma55.com/sitemap.xml
 
 # Crawl delay (optional, polite to shared-hosting servers)
 Crawl-delay: 1
@@ -13,3 +13,4 @@ Crawl-delay: 1
 # Block common non-content paths (if added later)
 # Disallow: /admin/
 # Disallow: /internal/
+
