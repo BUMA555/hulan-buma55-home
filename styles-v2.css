@@ -124,6 +124,47 @@ img {
   flex-wrap: wrap;
 }
 
+.v2-nav-dropdown {
+  position: relative;
+}
+
+.v2-nav-dropdown > a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+}
+
+.v2-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 0;
+  min-width: 240px;
+  display: none;
+  flex-direction: column;
+  gap: 6px;
+  padding: 12px;
+  border-radius: 16px;
+  background: rgba(8, 18, 32, 0.96);
+  border: 1px solid rgba(120, 146, 255, 0.18);
+  box-shadow: var(--shadow);
+}
+
+.v2-dropdown-menu a {
+  padding: 10px 12px;
+  border-radius: 10px;
+  color: #dbe7fa;
+}
+
+.v2-dropdown-menu a:hover {
+  background: rgba(255,255,255,0.06);
+  color: #fff;
+}
+
+.v2-nav-dropdown:hover .v2-dropdown-menu,
+.v2-nav-dropdown:focus-within .v2-dropdown-menu {
+  display: flex;
+}
+
 .v2-nav a {
   color: var(--muted);
   font-weight: 600;
@@ -817,4 +858,82 @@ img {
     flex-direction: column;
     align-items: flex-start;
   }
+
+  .v2-detail-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Product detail pages */
+.v2-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 18px;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+.v2-breadcrumb a:hover { color: var(--text); }
+
+.v2-detail-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+}
+
+.v2-detail-images {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.v2-detail-thumb-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.v2-thumb {
+  aspect-ratio: 4/3;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  cursor: pointer;
+}
+
+.v2-thumb img {
+  transition: transform 200ms ease;
+}
+.v2-thumb:hover img {
+  transform: scale(1.04);
+}
+
+.v2-detail-info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.v2-detail-info h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: var(--text);
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+
+.v2-spec-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.v2-spec-list li {
+  font-size: 0.95rem;
+  color: var(--muted);
+  line-height: 1.5;
 }
